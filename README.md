@@ -3,13 +3,6 @@
   💻 Quality Assurance | 👨‍💻 Desenvolvedor Full Stack | ☁️ Especialista em Cloud | 🛠️ Engenheiro DevOps
 </p>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgithub&show_icons=true&theme=dracula&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgithub&layout=compact&langs_count=7&theme=dracula" />
-</div>
-
 ## 👨‍💻 Sobre Mim
 
 Sou um profissional apaixonado por tecnologia, com experiência sólida em **Qualidade de Software**, **Desenvolvimento Full Stack**, **Cloud Computing** e **DevOps**. Minha missão é criar soluções eficientes, automatizadas e com alto padrão técnico.
