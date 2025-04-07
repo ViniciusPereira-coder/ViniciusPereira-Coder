@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Vinicius! 🚀</h1>
+<p align="center">
+  💻 Quality Assurance | 👨‍💻 Desenvolvedor Full Stack | ☁️ Especialista em Cloud | 🛠️ Engenheiro DevOps
+</p>
 
-<!--
-**ViniciusPereira-coder/ViniciusPereira-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgithub&show_icons=true&theme=dracula&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgithub&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
+---
+
+## 🧬 Quadro Vivo — Meu Universo Tech
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Painel animado de tecnologia" width="100%" />
+</p>
+
+---
+
+## 👨‍💻 Sobre Mim
+
+Sou um profissional apaixonado por tecnologia, com experiência sólida em **Qualidade de Software**, **Desenvolvimento Full Stack**, **Cloud Computing** e **DevOps**. Minha missão é criar soluções eficientes, automatizadas e com alto padrão técnico.
+
+---
+
+## 🧰 Ferramentas & Tecnologias
+
+### 💻 Linguagens de Programação
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ☁️ Cloud Computing
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🛢️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 DevOps & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### ✅ Testes e Qualidade
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+
+---
+
+## 📬 Vamos nos conectar!
+- 📧 [Email](mailto:vinicius@email.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- 🌐 [Portfólio](https://vinicius.dev)
+
+---
+
+⭐️ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios, deixar uma estrela ⭐ e me chamar para conversar sobre tecnologia, inovação ou carros! 🚗💬
