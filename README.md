@@ -3,24 +3,12 @@
   💻 Quality Assurance | 👨‍💻 Desenvolvedor Full Stack | ☁️ Especialista em Cloud | 🛠️ Engenheiro DevOps
 </p>
 
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgithub&show_icons=true&theme=dracula&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgithub&layout=compact&langs_count=7&theme=dracula" />
 </div>
-
----
-
-## 🧬 Quadro Vivo — Meu Universo Tech
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Painel animado de tecnologia" width="100%" />
-</p>
-
----
 
 ## 👨‍💻 Sobre Mim
 
@@ -50,7 +38,6 @@ Sou um profissional apaixonado por tecnologia, com experiência sólida em **Qua
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### ✅ Testes e Qualidade
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
